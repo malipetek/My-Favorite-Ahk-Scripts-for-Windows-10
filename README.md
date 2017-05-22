@@ -35,4 +35,4 @@ My ahk scripts i use everyday.
 > This is other part of _copy.ahk_.
 ---
 + ### switch.ahk
-> This is most essential but buggy script. When you hit `right control + arrow` keys, it sends `control + windows + arrow` keys. Therefore with one hand it is possible to switch desktops quickly. But sometimes it gives focus to some windows and make them alert. Any development debugging inspection would be appreciated.
+> This is most essential script for using multiple desktops. When you hit `right control + arrow` keys, it sends `control + windows + arrow` keys. Therefore with one hand it is possible to switch desktops quickly. 
