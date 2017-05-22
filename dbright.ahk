@@ -1,12 +1,12 @@
 ;
 $RButton::
-KeyWait, RButton
+KeyWait, RButton, T.1
 if (GetKeyState("LButton", "P"))
 {
-	SendEvent #{Tab}
+	Send #{Tab}
 	return
 }
 else{
 	Send {RButton}
 	return
-	}
+}

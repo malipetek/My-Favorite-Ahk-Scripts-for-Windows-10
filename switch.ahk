@@ -1,4 +1,4 @@
-#notrayicon
+
 ;
 RCtrl::
 Send {LCtrl down}{LWin down}
@@ -10,4 +10,3 @@ if(!GetKeyState("RCtrl","P")) {
   Send {RCtrl}
   return
 }
-

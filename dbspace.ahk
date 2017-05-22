@@ -2,5 +2,5 @@
 #notrayicon
 ;
 LAlt & Space::
-	SendEvent #{Tab}
+	Send #{Tab}
 return
